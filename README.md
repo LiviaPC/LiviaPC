@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://github.com/LiviaPC/LiviaPC/blob/main/%E2%8B%86%EF%BD%A1%E2%80%A7%CB%9A%CA%9A%20%20%20pink%20aesthetics%20%20%20%C9%9E%CB%9A%E2%80%A7%EF%BD%A1%E2%8B%86.jpg" alt="Minha foto" width="200" />
+  <img src="https://github.com/LiviaPC/LiviaPC/blob/main/líriorosa.jpg" alt="Minha foto" width="200" />
 </p>
 </div>
 
